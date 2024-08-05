@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tirth-Chavda
 - 👀 I’m interested in Cyber Security & Computer Science
 - 🌱 I’m currently learning Cyber Security & Application Devlopment
-- 📫 How to reach me via email-tirth26chavda@gamil.com
+- 📫 How to reach me via email-tirth26chavda@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
